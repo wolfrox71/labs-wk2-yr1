@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 #define leadingZeros 3
+#define recersive 0
 
 // from https://stackoverflow.com/questions/17250480/declaring-int-array-inside-struct
 typedef struct Row{
